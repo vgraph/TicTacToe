@@ -5,20 +5,11 @@
 /Tic-Tac-Toe/Welcome to the battlefield_/
 /Tic-Tac-Toe/What's up on the field/
 /Tic-Tac-Toe/lesson-info.yaml
+/Tic-Tac-Toe/task/tictactoe/__pycache__/
 /course-info.yaml
 /course-remote-info.yaml
 /requirements.txt
 .idea
+**/Problems/*/*.yaml
+**/Problems/*/*.html
 /Problems/lesson-info.yaml
-/Problems/The farm/task.html
-/Problems/The farm/task-info.yaml
-/Problems/The farm/task-remote-info.yaml
-/Problems/FizzBuzz/task.html
-/Problems/FizzBuzz/task-info.yaml
-/Problems/FizzBuzz/task-remote-info.yaml
-/Problems/List from input/task.html
-/Problems/List from input/task-info.yaml
-/Problems/List from input/task-remote-info.yaml
-/Problems/snake_case/task.html
-/Problems/snake_case/task-info.yaml
-/Problems/snake_case/task-remote-info.yaml
